@@ -1,2 +1,6 @@
 Lab 01 de Git
+<<<<<<< HEAD
 Nova adição na branch
+=======
+Editando na main
+>>>>>>> origin/main
